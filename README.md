@@ -23,7 +23,7 @@ project_root/
 │
 ├── assets/  
 ├── data/
-|   └── insurance.csv
+│   └── insurance.csv
 │   
 ├── regressor.ipynb  
 ├── README.md
