@@ -1,4 +1,4 @@
-## Hyperparameter Optimization Using Optuna for MNIST Classification
+## Random Forest regressor to estimate the health insurance premiums
 
 This Jupyter notebook demonstrates the use of Random Forest to estimate health insurance premiums for customers based on various variables such as location, age, smoking status, gender, etc.
 It also uses a grid search approach to fit the model to the data.
