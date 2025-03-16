@@ -49,21 +49,21 @@ pip install -r requirement.txt
 
 ### Sample plots at the end of the jupyer notebook run
 
-Parallel plot
 
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <p>Parallel plot</p>
-        <img src="./assets/correlations.jpg" alt="Correlations Plot" width="200" height="120">
-    </div>
-    
-    <div>
-        <p>Importance plot</p>
-        <img src="./assets/importance.jpg" alt="Importance Plot" width="200" height="120">
-    </div>
-    
-    <div>
-        <p>Regression result</p>
-        <img src="./assets/regressions.jpg" alt="Regression Plot" width="200" height="120">
-    </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <p>Parallel plot</p>
+      <img src="./assets/correlations.png" alt="Correlations Plot" width="250" height="220">
+    </td>
+    <td>
+      <p>Importance plot</p>
+      <img src="./assets/importance.png" alt="Importance Plot" width="250" height="220">
+    </td>
+    <td>
+      <p>Regression result</p>
+      <img src="./assets/regressions.png" alt="Regression Plot" width="250" height="220">
+    </td>
+  </tr>
+</table>
+
