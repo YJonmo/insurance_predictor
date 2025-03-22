@@ -24,7 +24,6 @@ project_root/
 ├── assets/  
 ├── data/
 │   └── insurance.csv
-│   
 ├── regressor.ipynb  
 ├── README.md
 └── requirements.txt
