@@ -17,7 +17,7 @@ It also uses a grid search approach to fit the model to the data.
 The dataset link: https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset
 
 
-## Project Structor
+## Project Structure
 ```bash
 project_root/
 │
