@@ -30,7 +30,7 @@ project_root/
 ```
 
 ## Usage
-1. Create a virtul env:
+1. Create a virtual env:
 
 ```bash
 python -m venv my_env
@@ -40,13 +40,13 @@ source .my_env/bin/activate
 2. Install the required dependencies:
 
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
-3. Run the jupyter notebook (regressor.ipynb) in colab or locally in VSCode. 
+3. Run the Jupyter notebook (regressor.ipynb) in colab or locally in VSCode. 
 
 
-### Sample plots at the end of the jupyer notebook run
+### Sample plots at the end of the Jupyer notebook run
 
 
 <table>
